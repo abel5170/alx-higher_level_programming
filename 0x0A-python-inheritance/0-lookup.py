@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+i!/usr/bin/python3
 """
 Definition of module
 """
@@ -7,3 +7,4 @@ Definition of module
 def lookup(obj):
     """returns a list of available objects"""
     return dir(obj)
+

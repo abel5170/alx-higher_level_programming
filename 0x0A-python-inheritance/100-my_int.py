@@ -15,3 +15,4 @@ class MyInt(int):
     def __ne__(self, x):
         """Defines module not eq"""
         return not super().__ne__(x)
+

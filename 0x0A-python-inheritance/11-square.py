@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+i!/usr/bin/python3
 """
     Square class
 """
@@ -28,3 +28,4 @@ class Square(Rectangle):
             Usage of __str__
         """
         return ("[Square] {:d}/{:d}".format(self.__size, self.__size))
+

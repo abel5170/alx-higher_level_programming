@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+i!/usr/bin/python3
 """
     Rectangle class inheriting other class
 """
@@ -29,3 +29,4 @@ class Rectangle(BaseGeometry):
             Rectangle with str
         """
         return("[Rectangle] {}/{}".format(self.__width, self.__height))
+
