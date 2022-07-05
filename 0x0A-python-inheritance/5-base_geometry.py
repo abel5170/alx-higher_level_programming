@@ -9,4 +9,3 @@ class BaseGeometry():
     empty block
     """
     pass
-
